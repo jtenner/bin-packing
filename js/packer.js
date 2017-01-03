@@ -46,7 +46,7 @@ Example:
 
 ******************************************************************************/
 
-Packer = function(w, h) {
+var Packer = function(w, h) {
   this.init(w, h);
 };
 
@@ -83,3 +83,4 @@ Packer.prototype = {
 
 }
 
+module.exports = Packer;
