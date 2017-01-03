@@ -5,6 +5,8 @@ This project is a javascript experiment to write a binary tree based
 bin packing algorithm that is suitable for generating
 [CSS sprites](https://github.com/jakesgordon/sprite-factory).
 
+This project was forked by Joshua Tenner to add common.js support for use within personal projects.
+
  * You can play with the [demo here](http://codeincomplete.com/posts/2011/5/7/bin_packing/example/)
  * You can find a [description here](http://codeincomplete.com/posts/2011/5/7/bin_packing/)
 
@@ -13,7 +15,7 @@ Demo
 
 Clone this repository
 
-    git clone https://github.com/jakesgordon/bin-packing
+    git clone https://github.com/jtenner/bin-packing
 
 View the index.html file in your favorite browser for examples of algorithm in use with lots of configurable options.
 
